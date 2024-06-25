@@ -1,0 +1,106 @@
+<html>
+    <head>
+        <link rel="icon" href="./images/favicon.png">
+
+        <title>
+            Assignment
+        </title>
+
+    </head>
+    <body>
+        <center><h1>Assignment</h1></center>
+        <h1>
+            Heading 1
+        </h1>
+        <h2>
+            Heading 2
+        </h2>
+        <h3>
+            Heading 3
+        </h3>
+        <h4>
+            Heading 4
+        </h4>
+        <h5>
+            heading 5
+        </h5>
+        <h6>
+            heading 6
+        </h6>
+        <br>
+        <br>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam perspiciatis reprehenderit error voluptas sequi tempore amet ex illum saepe expedita quod cum rerum, magnam vero iusto minus soluta nobis adipisci.
+        </p>
+        <br>
+        <br>
+        <p>
+            <i>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae eaque quos inventore eligendi cum. Corporis, dolore doloremque accusamus ipsa quaerat animi, velit amet eveniet ea repellat quisquam nihil, minus totam.
+            </i>
+        </p>
+        <p>
+            <b>
+                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae nemo suscipit facere rerum culpa velit, iusto inventore praesentium accusantium, iste, error atque. Et velit eos rerum sit dolorem iste placeat. 
+            </b>
+        </p>
+        <h2>
+            <u>
+                Images
+            </u>
+
+        </h2>
+        <img src="https://static.wikia.nocookie.net/p__/images/0/0f/Johnny_Silverhand.png/revision/latest?cb=20190627094023&path-prefix=protagonist" alt="Johnny_Silverhand"> 
+        <img src="./images/jin_sakai.jpg" alt="jin_sakai">  
+        <h2>
+            Anchor Links
+        </h2> 
+        <a href="about.html">About Page</a>
+        <h2>
+            Lists
+        </h2>
+        <h3>
+            Unordered List
+        </h3>
+        <ul>
+            <li>
+                Tea
+            </li>
+            <li>
+                coffee
+            </li>
+            <li>
+                Juices
+            </li>
+        </ul>
+        <h3>
+            Order List
+         </h3>
+         <ol type="I">
+            <li>
+                Tea 
+            </li>
+            <li>
+                coffee
+            </li>
+            <li>
+                Juices
+            </li>
+         </ol>
+         <h3>
+            Definition List
+         </h3>
+         <dl>
+            <dt>Fruits</dt>
+            <dd>
+                Apple
+            </dd>
+            <dd>
+                Banana
+            </dd>
+            <dd>
+                Orange
+            </dd>
+         </dl>
+    </body>
+</html>
